@@ -1,0 +1,13 @@
+Requisitos del proyecto:
+
+- Transformación y limpieza de los datos.
+- Análisis descriptivo de los datos.
+- Optimización del código en Python.
+- Visualización de los datos.
+- Informe explicativo del análisis.
+- Herramientas:
+	- Python
+	- Uso eficiente de pandas
+	- Visual Studio Code
+- Readme del proyecto
+
